@@ -3,7 +3,7 @@ package org.example.semester_02.week_03.assignement.block1;
 public class SquareOfDigits {
         public static void main(String[] args) {
             System.out.println(getMax(new String[]{"12", "34"}));
-            System.out.println(getMax(new String[]{"1255", "3455"}));
+//            System.out.println(getMax(new String[]{"1255", "3455"}));
         }
 
         public static int getMax(String[] data) {
